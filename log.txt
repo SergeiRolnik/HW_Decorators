@@ -1,0 +1,2 @@
+DATE/TIME: 22-04-19 14:50:00	FUNCTION NAME: add	ARGS: (4, 4)	RESULT: 8
+DATE/TIME: 22-04-19 14:50:00	FUNCTION NAME: flatten	ARGS: ([['a', 'b', 'c'], ['d', 'e', False], [1, None]],)	RESULT: <generator object flatten at 0x0000027312CD9660>
